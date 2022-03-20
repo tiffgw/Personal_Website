@@ -106,4 +106,4 @@ extensions:
     # Enable if you use the Portfolio widget or Publication filter
     enable: false
   academicons:
-    enable: true
+    enable: false
