@@ -104,6 +104,6 @@ extensions:
     local_backend: false
   isotope:
     # Enable if you use the Portfolio widget or Publication filter
-    enable: true
+    enable: false
   academicons:
     enable: true
