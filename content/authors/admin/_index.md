@@ -14,10 +14,10 @@ education:
     - course: Dphil in Computer Science
       institution: University of Oxford
       year: 2019 - now
-    - course: MSc in Information Science
+    - course: MSc (with Distinction) in Information Science
       institution: University College London
       year: 2017 - 2018
-    - course: BA, MA in Physics
+    - course: BA (Hons) in Physics
       institution: University of Oxford
       year: 2014 - 2017
 email: "xxxx"
