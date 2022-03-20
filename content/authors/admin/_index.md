@@ -28,5 +28,6 @@ I’m a Dphil student in the Department of Computer Science at University of Oxf
 
 My research investigates the algorithmic impact on families and children, and what that means for their long-term development. I’m keen to explore the potential for designing more age-appropriate AI for children, as well as building more ethical web and data architecture for them.
 
-{{< icon name="download" pack="fas" >}} Email: ge.wang[at]cs.ox.ac.uk 
+{{< icon name="envelope" pack="fa" >}} Email: ge.wang[at]cs.ox.ac.uk 
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
