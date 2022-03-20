@@ -1,7 +1,7 @@
 ---
 title: Ge Wang
 role: DPhil (Ph.D.) student
-bio: I’m a Dphil student in the Department of Computer Science at University of Oxford. My research investigates the algorithmic impact on families and children, and what that means for their long-term development. I’m keen to explore the potential for designing more age-appropriate AI for children, as well as building more ethical web and data architecture for them. My research takes a human-centrci approach, and focuses on understanding their needs in order to design technological prototypes that are of real impact on today's soceity.
+bio: I’m a Dphil student in the Department of Computer Science at University of Oxford. My research investigates the algorithmic impact on families and children, and what that means for their long-term development. I’m keen to explore the potential for designing more age-appropriate AI for families, as well as building more ethical web and data architecture for them. My research takes a human-centrci approach, and focuses on understanding users' needs in order to design technological prototypes that are of real impact on today's society.
 interests:
   - Human-Computer Interaction
   - Age-Appropriate Artificial Intelligence
@@ -26,7 +26,7 @@ highlight_name: true
 ---
 I’m a Dphil student in the Department of Computer Science at University of Oxford, the {{< staticref "https://hcc.cs.ox.ac.uk/" "newtab" >}}Human Centred Computing group{{< /staticref >}}. My Dphil is supervised by Professor Sir Nigel Shadbolt, Dr. Jun Zhao, and receive kind support from Professor Max Van Kleek and Professor Reuben Binns. 
 
-I'm on the {{< staticref "https://koala.web.ox.ac.uk/home" "newtab" >}}KOALA{{< /staticref >}} team and the {{< staticref "https://twitter.com/oxfordccai" "newtab" >}}OxfordCCAI{{< /staticref >}} team. My research investigates the algorithmic impact on families and children, and what that means for their long-term development. I’m keen to explore the potential for designing more age-appropriate AI for children, as well as building more ethical web and data architecture for them. My research takes a human-centrci approach, and focuses on understanding their needs in order to design technological prototypes that are of real impact on today's soceity.
+I'm on the {{< staticref "https://koala.web.ox.ac.uk/home" "newtab" >}}KOALA{{< /staticref >}} team and the {{< staticref "https://twitter.com/oxfordccai" "newtab" >}}OxfordCCAI{{< /staticref >}} team. My research investigates the algorithmic impact on families and children, and what that means for their long-term development. I’m keen to explore the potential for designing more age-appropriate AI for families, as well as building more ethical web and data architecture for them. My research takes a human-centrci approach, and focuses on understanding users' needs in order to design technological prototypes that are of real impact on today's society.
 
 {{< icon name="envelope" pack="fa" >}} Email: ge.wang[at]cs.ox.ac.uk 
 
