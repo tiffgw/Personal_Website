@@ -8,8 +8,8 @@
 appearance:
   theme_day: Raleway
   theme_night: Raleway
-  font: Raleway:wght@200
-  font_size: M
+  font: Raleway:wght@100
+  font_size: S
 
 # SEO
 
