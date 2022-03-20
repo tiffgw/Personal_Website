@@ -20,10 +20,12 @@ education:
     - course: BA (Hons) in Physics
       institution: University of Oxford
       year: 2017
-email: "xxxx"
+email: "ge.wang[at]cs.ox.ac.uk"
 superuser: true
 highlight_name: true
 ---
+
+
 I’m a Dphil student in the Department of Computer Science at University of Oxford. As a member of the HCAI (Human-Centred AI) Lab, My Dphil is supervised by Professor Sir Nigel Shadbolt, Dr. Jun Zhao, as well as kind support from Professor Max Van Kleek and Professor Reuben Binns. My research investigates the algorithmic impact on families and children, and what that means for their long-term development. I’m keen to explore the potential for designing more age-appropriate AI for children, as well as building more ethical web and data architecture for them.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
