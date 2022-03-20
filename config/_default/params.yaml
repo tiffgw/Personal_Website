@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: Raleway
-  theme_night: Raleway
-  font: Raleway:wght@100
+  theme_day: EB Garamond
+  theme_night: EB Garamond
+  font: EB+Garamond
   font_size: S
 
 # SEO
