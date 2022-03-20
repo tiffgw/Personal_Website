@@ -1,7 +1,7 @@
 ---
 title: Ge Wang
 role: DPhil (Ph.D.) student
-bio: I’m a Dphil student in the Department of Computer Science at University of Oxford. My research investigates the algorithmic impact on families and children, and what that means for their long-term development. I’m keen to explore the potential for designing more age-appropriate AI for children, as well as building more ethical web and data architecture for them.
+bio: I’m a Dphil student in the Department of Computer Science at University of Oxford. As a member of the HCAI (Human-Centred AI) Lab, My Dphil is supervised by Professor Sir Nigel Shadbolt, Dr. Jun Zhao, as well as kind support from Professor Max Van Kleek and Professor Reuben Binns. My research investigates the algorithmic impact on families and children, and what that means for their long-term development. I’m keen to explore the potential for designing more age-appropriate AI for children, as well as building more ethical web and data architecture for them.
 interests:
   - Human-Computer Interaction
   - Age-Appropriate Artificial Intelligence
@@ -15,17 +15,15 @@ education:
       institution: University of Oxford
       year: 2019 - now
     - course: MSc in Information Science
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+      institution: University College London
+      year: 2017 - 2018
+    - course: BA, MA in Physics
+      institution: University of Oxford
+      year: 2014 - 2017
+email: "xxxx"
 superuser: true
 highlight_name: true
 ---
-ABCD is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I’m a Dphil student in the Department of Computer Science at University of Oxford. As a member of the HCAI (Human-Centred AI) Lab, My Dphil is supervised by Professor Sir Nigel Shadbolt, Dr. Jun Zhao, as well as kind support from Professor Max Van Kleek and Professor Reuben Binns. My research investigates the algorithmic impact on families and children, and what that means for their long-term development. I’m keen to explore the potential for designing more age-appropriate AI for children, as well as building more ethical web and data architecture for them.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
