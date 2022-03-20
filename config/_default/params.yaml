@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: EBGaramond
-  theme_night: EBGaramond
-  font: EBGaramond
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
   font_size: S
 
 # SEO
