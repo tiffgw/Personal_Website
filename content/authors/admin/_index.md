@@ -1,31 +1,14 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+title: Ge Wang
+role: DPhil (Ph.D.) student
+bio: I’m a Dphil student in the Department of Computer Science at University of Oxford. My research investigates the algorithmic impact on families and children, and what that means for their long-term development. I’m keen to explore the potential for designing more age-appropriate AI for children, as well as building more ethical web and data architecture for them.
+research interests:
+  - Human-Computer Interaction
+  - Age-Appropriate Artificial Intelligence
+  - Ethical Web and Data Architecture
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Department of Computer Science, University of Oxford
+    url: https://www.cs.ox.ac.uk/research/HCC/
 education:
   courses:
     - course: PhD in Artificial Intelligence
