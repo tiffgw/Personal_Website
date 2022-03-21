@@ -1,9 +1,9 @@
 ---
 title: OxfordCCAI Supports Safer Internet Day
-subtitle: To celebrate #SaferInternetDay 2022 🎉, we prepared a short video to discuss less known online risks to children, including 1) data tracking risks, 2) attention management, 3) emotion management and 4) parental control.
+subtitle: To celebrate SaferInternetDay 2022 🎉, we prepared a short video to discuss less known online risks to children, including 1) data tracking risks, 2) attention management, 3) emotion management and 4) parental control.
 
 # Summary for listings and search engines
-summary: To celebrate #SaferInternetDay 2022 🎉, we prepared a short video to discuss less known online risks to children, including 1) data tracking risks, 2) attention management, 3) emotion management and 4) parental control.
+summary: To celebrate SaferInternetDay 2022 🎉, we prepared a short video to discuss less known online risks to children, including 1) data tracking risks, 2) attention management, 3) emotion management and 4) parental control.
 
 # Link this post with a project
 projects: []
@@ -39,7 +39,7 @@ authors:
 # - 教程
 ---
 
-To celebrate #SaferInternetDay 2022, we prepared a short video to discuss less known online risks to children (YouTube link), including 
+To celebrate SaferInternetDay 2022, we prepared a short video to discuss less known online risks to children (YouTube link), including 
 - **data tracking risks**
 - **attention management**
 - **emotion management**
