@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Chi Paper 1"
+title: "Informing Age-Appropriate AI: Examining Principles and Practices of AI for Children"
 authors: []
 date: 2022-03-21T00:46:12Z
 doi: ""
