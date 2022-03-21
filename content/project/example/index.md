@@ -15,7 +15,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/oxfordccai
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -26,7 +26,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 KOALA --- Kids Online Anonymity & Lifelong Autonomy --- is an impact acceleration project funded by Oxford University's EPSRC Impact Acceleration Account, partnering with Anna Freud National Centre for Children and Families. The general goal of the KOALA project is to investigate the impact of personal data collection practices of mobile apps upon the general well-being of young children aged 6-10.
