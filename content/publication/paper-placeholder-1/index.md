@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Paper Placeholder 1"
+title: "Paper Placeholder A"
 authors: []
 date: 2022-03-21T01:08:41Z
 doi: ""
