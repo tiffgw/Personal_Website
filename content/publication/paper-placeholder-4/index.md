@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A Fait Accompli? An Empirical Study into the Absence of Consent to Third−Party Tracking in Android Apps"
+title: "[SOUPS'21] A Fait Accompli? An Empirical Study into the Absence of Consent to Third−Party Tracking in Android Apps"
 authors: 
 - Konrad Kollnig
 - Reuben Binns
