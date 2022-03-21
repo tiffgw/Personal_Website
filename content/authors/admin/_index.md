@@ -30,4 +30,4 @@ I'm on the {{< staticref "https://koala.web.ox.ac.uk/home" "newtab" >}}KOALA{{< 
 
 {{< icon name="envelope" pack="fa" >}} Email: ge.wang[at]cs.ox.ac.uk 
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}. -->
