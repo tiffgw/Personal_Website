@@ -40,6 +40,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
+{{< youtube WeQAb_LC7DE >}}
+
 url_pdf:
 url_code:
 url_dataset:
