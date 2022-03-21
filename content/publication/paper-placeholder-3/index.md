@@ -1,10 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Paper Placeholder 3"
-authors: []
-date: 2022-03-21T01:08:44Z
-doi: ""
+title: "[CHI'19] `I make up a silly name': Understanding Children's Perception of Privacy Risks Online"
+authors: 
+- Jun Zhao
+- admin
+- Carys Dally
+- Petr Slovak
+- Julian Edbrooke-Childs
+- Max Van Kleek
+- Nigel Shadbolt 
+
+date: 2019-05-21T01:08:44Z
+doi: "https://doi.org/10.1145/3290605.3300336"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-03-21T01:08:44Z
@@ -13,16 +21,16 @@ publishDate: 2022-03-21T01:08:44Z
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems"
+publication_short: "CHI'19"
 
-abstract: ""
+abstract: "Children under 11 are often regarded as too young to comprehend the implications of online privacy. Perhaps as a result, little research has focused on younger kids' risk recognition and coping. Such knowledge is, however, critical for designing efficient safeguarding mechanisms for this age group. Through 12 focus group studies with 29 children aged 6-10 from UK schools, we examined how children described privacy risks related to their use of tablet computers and what information was used by them to identify threats. We found that children could identify and articulate certain privacy risks well, such as information oversharing or revealing real identities online; however, they had less awareness with respect to other risks, such as online tracking or game promotions. Our findings offer promising directions for supporting children's awareness of cyber risks and the ability to protect themselves online."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Children under 11 are often regarded as too young to comprehend the implications of online privacy. Perhaps as a result, little research has focused on younger kids' risk recognition and coping. Such knowledge is, however, critical for designing efficient safeguarding mechanisms for this age group. Through 12 focus group studies with 29 children aged 6-10 from UK schools, we examined how children described privacy risks related to their use of tablet computers and what information was used by them to identify threats. We found that children could identify and articulate certain privacy risks well, such as information oversharing or revealing real identities online; however, they had less awareness with respect to other risks, such as online tracking or game promotions. Our findings offer promising directions for supporting children's awareness of cyber risks and the ability to protect themselves online."
 
 tags: []
 categories: []
@@ -58,7 +66,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
