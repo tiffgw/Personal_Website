@@ -5,8 +5,8 @@
 
 title: GE WANG # Website name
 baseURL: 'https://example.com/' # Website URL
-
 	
+
 backend:
   name: git-gateway
   branch: main
