@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "`I make up a silly name': Understanding Children's Perception of Privacy Risks Online"
+title: "[CHI'19] `I make up a silly name': Understanding Children's Perception of Privacy Risks Online"
 authors: 
 - Jun Zhao
 - admin
