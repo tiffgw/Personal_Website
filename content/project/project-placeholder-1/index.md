@@ -6,7 +6,7 @@ summary: Helping Families to Achieve a More Informed Management of Young Childre
 # date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://koala.web.ox.ac.uk/home"
+external_link: ""
 
 image:
   focal_point: Smart
@@ -34,3 +34,5 @@ KOALA --- Kids Online Anonymity & Lifelong Autonomy --- is an impact acceleratio
 The background for the project is that tablet computers are becoming the primary means for young children to go online. However, few studies have examined how young children under 11 perceive and cope with personal data privacy during their interactions with these mobile technologies. Research in our current EPSRC SOCIAM project has revealed that a large amount of personal information is tracked while young children are interacting with tablet computers. Although the impact of these technologies upon the well-being of adults or teenagers are better understood, we know little about their impact upon young children.
 
 The main objective of KOALA is thus to work with mental health researchers from AF, parents and educators of young children, as well as young children themselves, to better understand the impact of personal data collection by mobile apps upon the well-being and health of young children.
+
+https://koala.web.ox.ac.uk/home
