@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "[Conference Paper] [CHI'22] Informing Age-Appropriate AI: Examining Principles and Practices of AI for Children"
+title: "[CHI'22] Informing Age-Appropriate AI: Examining Principles and Practices of AI for Children"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
