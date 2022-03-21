@@ -40,8 +40,6 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-{{< youtube WeQAb_LC7DE >}}
-
 url_pdf:
 url_code:
 url_dataset:
@@ -49,7 +47,7 @@ url_poster:
 url_project:
 url_slides:
 url_source:
-url_video:
+url_video:https://www.youtube.com/watch?v=WeQAb_LC7DE
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
