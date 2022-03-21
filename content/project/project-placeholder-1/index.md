@@ -1,6 +1,6 @@
 ---
-title: KOALA Project
-summary: Helping Families to Achieve a More Informed Management of Young Children's Choice of Mobile Applications
+title: KOALA 
+summary: KOALA (Kids Online Anonymity & Lifelong Autonomy) is an impact acceleration project funded by Oxford University's EPSRC Impact Acceleration Account, partnering with Anna Freud National Centre for Children and Families. The general goal of the KOALA project is to help families to achieve a more informed management of young children's choice of mobile applications.
 # tags:
 # - Deep Learning
 # date: "2016-04-27T00:00:00Z"
