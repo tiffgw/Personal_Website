@@ -25,7 +25,7 @@ publishDate: 2022-03-21T01:08:41Z
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In CHI Conference on Human Factors in Computing Systems"
+publication: "In CHI Conference on Human Factors in Computing Systems 2022"
 publication_short: "In CHI'22"
 
 abstract: "AI systems are becoming increasingly pervasive within children’s devices, apps, and services. However, it is not yet well-understood how risks and ethical considerations of AI relate to children. This paper makes three contributions to this area - first, it identifies ten areas of alignment between general AI frameworks and codes for age-appropriate design for children. Then, to understand how such principles relate to real application contexts, we conducted a land- scape analysis of children’s AI systems, via a systematic literature review including 188 papers. This analysis revealed a wide assort- ment of applications, and that most systems’ designs addressed only a small subset of principles among those we identified. Finally, we synthesised our findings in a framework to inform a new “Code for Age-Appropriate AI”, which aims to provide timely input to emerging policies and standards, and inspire increased interactions between the AI and child-computer interaction communities."
