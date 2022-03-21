@@ -44,5 +44,5 @@ To celebrate #SaferInternetDay 2022, we prepared a short video to discuss less k
 - **attention management**
 - **emotion management**
 - **parental control**
-- 
+
 Happy safe and healthy week! 🥳
