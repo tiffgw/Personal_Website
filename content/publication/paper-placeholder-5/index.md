@@ -1,28 +1,31 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Paper Placeholder 5"
-authors: []
+title: "[Report] Are Children Fully Aware of Online Privacy Risks and How Can We Improve Their Coping Ability?"
+authors: 
+  - admin
+  - Jun Zhao
+  - Nigel Shadbolt
 date: 2022-03-21T01:08:49Z
-doi: ""
+doi: "https://arxiv.org/abs/1902.02635"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-03-21T01:08:49Z
+publishDate: 2019-02-21T01:08:49Z
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "KOALA Project Report 3, University of Oxford"
 publication_short: ""
 
-abstract: ""
+abstract: "The age of children adopting digital technologies, such as tablets or smartphones, is increasingly young. However, children under 11 are often regarded as too young to comprehend the concept of online privacy. Limited research studies have focused on children of this age group. In the summer of 2018, we conducted 12 focus group studies with 29 children aged 6-10 from Oxfordshire primary schools. Our research has shown that children have a good understanding of certain privacy risks, such as information oversharing or avoiding revealing real identities online. They could use a range of descriptions to articulate the risks and describe their risk coping strategies. However, at the same time, we identified that children had less awareness concerning other risks, such as online tracking or game promotions. Inspired by Vygotsky's Zone of Proximal Development (ZPD), this study has identified critical knowledge gaps in children's understanding of online privacy, and several directions for future education and technology development. We call for attention to the needs of raising children's awareness and understanding of risks related to online recommendations and data tracking, which are becoming ever more prevalent in the games and content children encounter. We also call for attention to children's use of language to describe risks, which may be appropriate but not necessarily indicate a full understanding of the threats."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "The age of children adopting digital technologies, such as tablets or smartphones, is increasingly young. However, children under 11 are often regarded as too young to comprehend the concept of online privacy. Limited research studies have focused on children of this age group. In the summer of 2018, we conducted 12 focus group studies with 29 children aged 6-10 from Oxfordshire primary schools. Our research has shown that children have a good understanding of certain privacy risks, such as information oversharing or avoiding revealing real identities online. They could use a range of descriptions to articulate the risks and describe their risk coping strategies. However, at the same time, we identified that children had less awareness concerning other risks, such as online tracking or game promotions. Inspired by Vygotsky's Zone of Proximal Development (ZPD), this study has identified critical knowledge gaps in children's understanding of online privacy, and several directions for future education and technology development. We call for attention to the needs of raising children's awareness and understanding of risks related to online recommendations and data tracking, which are becoming ever more prevalent in the games and content children encounter. We also call for attention to children's use of language to describe risks, which may be appropriate but not necessarily indicate a full understanding of the threats."
 
 tags: []
 categories: []
