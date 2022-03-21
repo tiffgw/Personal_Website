@@ -35,7 +35,7 @@ social:
     header: true
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=X-Cuad0AAAAJ
+  link: https://scholar.google.co.uk/user=X-Cuad0AAAAJ
   
 email: "ge.wang[at]cs.ox.ac.uk"
 superuser: true
