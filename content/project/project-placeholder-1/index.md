@@ -16,7 +16,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/oxfordccai
-- icon: browser
+- icon: comments
   icon_pack: fas
   name: Go to Website
   url: https://koala.web.ox.ac.uk/home
