@@ -29,6 +29,10 @@ image:
 
 authors:
 - admin
+- Jun Zhao
+- Anirudh Ekambaranathan
+- Ulrik Lynns
+- Claudine Tinsman
 
 # tags:
 # - Academic
@@ -39,10 +43,12 @@ authors:
 # - 教程
 ---
 
-To celebrate SaferInternetDay 2022, we prepared a short video to discuss less known online risks to children (YouTube link), including 
+To celebrate SaferInternetDay 2022, we prepared a short video to discuss less known online risks to children, including 
 - **data tracking risks**
 - **attention management**
 - **emotion management**
 - **parental control**
+
+{{< youtube w7Ft2ymGmfc >}}
 
 Happy safe and healthy week! 🥳
