@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "[Repotrt] What concerns do Chinese parents have about their children's digital adoption and how to better support them?"
+title: "[Report] What concerns do Chinese parents have about their children's digital adoption and how to better support them?"
 authors: 
   - admin
   - Jun Zhao
