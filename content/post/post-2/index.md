@@ -44,3 +44,4 @@ The Colloquium assembles researchers from Oxford and from Goodenough working in 
 
 I present a talk on Age-Appropriate AI: Gaps, challenges, and what may future look like - AI systems are becoming increasingly pervasive within children’s devices, apps, and services. However, it is not yet well-understood how risks and ethical considerations of AI relate to children, and what that means for future AI regulations?
 
+{{< youtube 193Ky-eseaQ >}}
