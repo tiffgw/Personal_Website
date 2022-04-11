@@ -2,14 +2,14 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 
-title: " ![Honorable Mention](https://raw.githubusercontent.com/tiffanygewang/tiffany.ge.wang/master/assets/media/honorable.jpeg) Informing Age-Appropriate AI: Examining Principles and Practices of AI for Children"
+title: "Informing Age-Appropriate AI: Examining Principles and Practices of AI for Children"
 
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
+- ![Honorable Mention](https://raw.githubusercontent.com/tiffanygewang/tiffany.ge.wang/master/assets/media/honorable.jpeg) admin
 - Jun Zhao
 - Max Van Kleek
 - Nigel Shadbolt
