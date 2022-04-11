@@ -27,7 +27,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems"
-publication_short: "In CHI'22"
+publication_short: "In CHI'22 <img align="justify" width="20" height="20" src="https://raw.githubusercontent.com/akarsh/akarsh-seggemu-resume/master/akarsh%20seggemu%20resume/Assets/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png" alt="Resume application project app icon">"
 
 abstract: "AI systems are becoming increasingly pervasive within children’s devices, apps, and services. However, it is not yet well-understood how risks and ethical considerations of AI relate to children. This paper makes three contributions to this area - first, it identifies ten areas of alignment between general AI frameworks and codes for age-appropriate design for children. Then, to understand how such principles relate to real application contexts, we conducted a landscape analysis of children’s AI systems, via a systematic literature review including 188 papers. This analysis revealed a wide assortment of applications, and that most systems’ designs addressed only a small subset of principles among those we identified. Finally, we synthesised our findings in a framework to inform a new “Code for Age-Appropriate AI”, which aims to provide timely input to emerging policies and standards, and inspire increased interactions between the AI and child-computer interaction communities."
 
