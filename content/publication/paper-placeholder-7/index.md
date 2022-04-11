@@ -18,7 +18,7 @@ publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
 publication: "MSc Thesis, University College London"
-publication_short: ""
+publication_short: "![honorable mention](https://raw.githubusercontent.com/tiffanygewang/tiffany.ge.wang/master/assets/media/newline.png) MSc Thesis"
 
 abstract: "We researched on solving entity resolution problems using active learning approaches, and focused on general-based methods. We did a literature review and presented the general pipeline for solving ER tasks with AL approaches. We critically reviewed the existing literature to thematise existing approaches in order to identify three exemplars for evaluation. We critically reflected on the findings of the exemplars and synthesised a new method, CombinedSEL. The method is critically evaluated both theoretically and empirically. It was found to outperform previous approaches. Limitations and future works were discussed as well."
 
