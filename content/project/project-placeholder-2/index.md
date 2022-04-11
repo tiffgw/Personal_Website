@@ -3,7 +3,7 @@ title: Algorithmic Kids
 summary: By focusing on internet-based applications that build on algorithmic selection as units of analysis and on the societal functions, My Dphil aims to understand the failures and successes of current Age-appropriate design, and extrapolate how might we design for the future in this growing data-driven algorithmic society.
 # tags:
 # - Deep Learning
-# date: "2016-04-27T00:00:00Z"
+date: "2019-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
