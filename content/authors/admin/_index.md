@@ -8,7 +8,7 @@ interests:
   - Ethical Web and Data Architecture
 organizations:
   - name: Department of Computer Science, University of Oxford
-    url: https://www.cs.ox.ac.uk/research/HCC/
+    url: https://www.cs.ox.ac.uk/people/ge.wang/
 education:
   courses:
     - course: Dphil in Computer Science
