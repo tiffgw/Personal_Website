@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "[Thesis] Towards A More Holistic Approach in Entity Resolution with Active Learning Algorithms"
+title: "Towards A More Holistic Approach in Entity Resolution with Active Learning Algorithms"
 authors: 
   - admin
 date: 2018-09-21T01:08:51Z
