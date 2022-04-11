@@ -5,7 +5,7 @@ summary: KOALA (Kids Online Anonymity & Lifelong Autonomy) is an impact accelera
 # tags:
 # - Deep Learning
 
-date: "2019-"
+date: "2019-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
