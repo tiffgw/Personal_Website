@@ -35,8 +35,6 @@
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </div>
     
-    <img align="left" width="20" height="20" src="https://raw.githubusercontent.com/akarsh/akarsh-seggemu-resume/master/akarsh%20seggemu%20resume/Assets/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png" alt="Resume application project app icon">
-    
     <span class="article-metadata li-cite-author">
     {{ partial "page_metadata_authors" $item }}
     </span>
@@ -46,6 +44,8 @@
     {{ else if $item.Params.publication }}
       {{- $item.Params.publication | markdownify -}}.
     {{ end }}
+    
+     <img align="left" width="20" height="20" src="https://raw.githubusercontent.com/akarsh/akarsh-seggemu-resume/master/akarsh%20seggemu%20resume/Assets/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png" alt="Resume application project app icon">
     
     {{ with $summary }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
