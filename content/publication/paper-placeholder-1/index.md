@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Informing Age-Appropriate AI: Examining Principles and Practices of AI for Children ![Honorable Mention](https://raw.githubusercontent.com/tiffanygewang/tiffany.ge.wang/master/assets/media/honorable.jpeg)"
+title: "![Honorable Mention](https://raw.githubusercontent.com/tiffanygewang/tiffany.ge.wang/master/assets/media/honorable.jpeg) Informing Age-Appropriate AI: Examining Principles and Practices of AI for Children"
 
 
 # Authors
