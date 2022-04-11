@@ -25,7 +25,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In Seventeenth Symposium on Usable Privacy and Security"
-publication_short: "In SOUPS'21"
+publication_short: "![honorable mention](https://raw.githubusercontent.com/tiffanygewang/tiffany.ge.wang/master/assets/media/newline.png) In SOUPS'21"
 
 abstract: "Third-party tracking allows companies to collect users' behavioural data and track their
 activity across digital devices. This can put deep insights into users' private lives into the
