@@ -25,7 +25,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems"
-publication_short: "In CHI'19"
+publication_short: "![honorable mention](https://raw.githubusercontent.com/tiffanygewang/tiffany.ge.wang/master/assets/media/newline.png) In CHI'19"
 
 abstract: "Children under 11 are often regarded as too young to comprehend the implications of online privacy. Perhaps as a result, little research has focused on younger kids' risk recognition and coping. Such knowledge is, however, critical for designing efficient safeguarding mechanisms for this age group. Through 12 focus group studies with 29 children aged 6-10 from UK schools, we examined how children described privacy risks related to their use of tablet computers and what information was used by them to identify threats. We found that children could identify and articulate certain privacy risks well, such as information oversharing or revealing real identities online; however, they had less awareness with respect to other risks, such as online tracking or game promotions. Our findings offer promising directions for supporting children's awareness of cyber risks and the ability to protect themselves online."
 
