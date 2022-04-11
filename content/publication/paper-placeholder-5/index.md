@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "[Report] Are Children Fully Aware of Online Privacy Risks and How Can We Improve Their Coping Ability?"
+title: "Are Children Fully Aware of Online Privacy Risks and How Can We Improve Their Coping Ability?"
 authors: 
   - admin
   - Jun Zhao
