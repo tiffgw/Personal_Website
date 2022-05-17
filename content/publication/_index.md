@@ -15,13 +15,13 @@ header:
   image: ""
 ---
 
-  # Filter on criteria
-  filters:
-    folders:''
-    tag: ''
-    category: ''
-    publication_type: ["1"]
-    author: ''
-    exclude_featured: true
-    exclude_future: false
-    exclude_past: false
+# Filter on criteria
+filters:
+  folders:''
+  tag: ''
+  category: ''
+  publication_type: ["1"]
+  author: ''
+  exclude_featured: true
+  exclude_future: false
+  exclude_past: false
