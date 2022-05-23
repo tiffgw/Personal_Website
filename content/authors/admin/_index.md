@@ -49,4 +49,4 @@ I'm on the {{< staticref "https://koala.web.ox.ac.uk/home" "newtab" >}}KOALA{{< 
 
 {{< icon name="envelope" pack="fa" >}} Email: ge.wang[at]cs.ox.ac.uk 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
