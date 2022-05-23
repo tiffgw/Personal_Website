@@ -21,7 +21,7 @@ publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
 publication: "IDC 2022 Workshop"
 
-publication_short: "![honorable mention](https://raw.githubusercontent.com/tiffanygewang/tiffany.ge.wang/master/assets/media/newline.png) IDC'22 Workshop"
+publication_short: "![honorable mention](https://raw.githubusercontent.com/tiffanygewang/tiffany.ge.wang/master/assets/media/newline.png) In IDC'22 Workshop"
 
 abstract: "In this position paper, we argue for the need to investigate and unpack how social media platforms conduct datafication practices, especially for children. As a starting point, we reviewed and analysed on what statements were made in their data policies regarding their collection and use of data. We outlined an agenda to support research addressing if and how their statements align with things done in practice, and future research addressing the phenomena."
 
