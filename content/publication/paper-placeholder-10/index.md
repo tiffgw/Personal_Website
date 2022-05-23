@@ -21,7 +21,7 @@ publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
 publication: "IDC 2022 Workshop"
 
-publication_short: "![honorable mention](https://raw.githubusercontent.com/tiffanygewang/tiffany.ge.wang/master/assets/media/newline.png) IDC'22 Workshop"
+publication_short: "![honorable mention](https://raw.githubusercontent.com/tiffanygewang/tiffany.ge.wang/master/assets/media/newline.png) In IDC'22 Workshop"
 
 abstract: "Distributed participatory design (DPD) is becoming increasing popular within the HCI community, partly due to the covid-19 era moving everything online. In this position paper, we described the potential problems arising from the choice of researchers' normative stance in design sessions, and we argue for the need to investigate and unpack how to carefully position the normative stance when working with children in distributed participatory design."
 # Summary. An optional shortened abstract.
