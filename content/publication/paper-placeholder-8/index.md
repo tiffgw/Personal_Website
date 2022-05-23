@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Protection or Punishment? Relating the Design Space of Parental Control Apps and Perceptions about Them to Support Parenting for Online Safety"
+title: "'Don't make assumptions about me!']{`Don't make assumptions about me!': Understanding Children's Perception of Datafication Online"
 authors:
 - admin
 - Jun Zhao
