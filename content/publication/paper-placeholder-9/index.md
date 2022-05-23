@@ -19,7 +19,7 @@ publishDate: 2022-03-21T01:08:49Z
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IDC 2022 Workshop"
+publication: "In 21st edition of the ACM Interaction Design and Children (IDC) Conference, Workshop: 6th KidRec Workshop: Information Retrieval Systems for Children in the COVID-19 Era (KidRec)"
 
 publication_short: "![honorable mention](https://raw.githubusercontent.com/tiffanygewang/tiffany.ge.wang/master/assets/media/newline.png) In IDC'22 Workshop"
 
