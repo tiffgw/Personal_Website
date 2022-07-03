@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Ethical Considerations on Positioning the Normative Stance when working with Children"
+title: "KOALA Hero: Inform Children of Privacy Risks of Mobile Apps"
 authors: 
   - Jun Zhao
   - Blanche Duron
   - admin
 
-date: 2022-06-27T01:08:49Z
+date: 2022-06-30T01:08:49Z
 # doi: "https://doi.org/10.1145/3501712.3535278"
 
 # Schedule page publish date (NOT publication's date).
