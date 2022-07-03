@@ -23,9 +23,27 @@ publication: "Written Evidence Submitted by Oxford University Child-Centred AI"
 
 publication_short: "![honorable mention](https://raw.githubusercontent.com/tiffanygewang/tiffany.ge.wang/master/assets/media/newline.png) Written Evidence Submitted by Oxford University Child-Centred AI"
 
-abstract: "Children’s online activities are routinely tracked, aggregated, and exploited by online services, to manipulate children’s online behaviour or monetise. This contributes to the so-called datafied childhood. Unfortunately, such datafication remains largely invisible behind the services and is practically impossible to avoid. Existing approaches largely focus on direct online harms, and provide limited support to raise children’s awareness or understanding of how their data may be processed, transmitted across platforms, and used to affect their best interests. Through co-design workshops, we identified key barriers for children and families to cope with this type of data privacy risk. Our contribution is that instead of regarding children as passive users and needing protection, we draw on critical digital literacy theories and design a KOALA Hero app, which is aimed to enhance children’s cognitive, situated and critical thinking of datafication and online data privacy risks. KOALA Hero represents our first step towards facilitating children’s understanding of the invisible data privacy risks. We hope future empirical evaluations will further inform us regarding how our design approaches may affect the thinking process and behaviours of children and families."
+abstract: "This written evidence is submitted by Dr Jun Zhao (Senior research fellow) and Ms Ge Wang
+(Final year DPhil student) on behalf of Oxford University’s Child-Centred AI initiative1, led by
+Dr Zhao, which is part of Human Centred Computing Group2 of the Department of Computer
+Science at Oxford University. We have extensive experience in working and researching
+together with children and families to understand how data-driven algorithmic systems
+affect their online experiences and how to design better technologies for them. We have
+published extensively in premier academic conferences and journals on this topic and
+contributed to recent policy and regulatory developments in relation to data protection for
+children and online safeguarding for children, led by the UK CDEI, ICO, DCMS, the Council of
+Europe and other non-profit organisations (such as 5Rights or Terre de Homes)."
 # Summary. An optional shortened abstract.
-summary: "Children’s online activities are routinely tracked, aggregated, and exploited by online services, to manipulate children’s online behaviour or monetise. This contributes to the so-called datafied childhood. Unfortunately, such datafication remains largely invisible behind the services and is practically impossible to avoid. Existing approaches largely focus on direct online harms, and provide limited support to raise children’s awareness or understanding of how their data may be processed, transmitted across platforms, and used to affect their best interests. Through co-design workshops, we identified key barriers for children and families to cope with this type of data privacy risk. Our contribution is that instead of regarding children as passive users and needing protection, we draw on critical digital literacy theories and design a KOALA Hero app, which is aimed to enhance children’s cognitive, situated and critical thinking of datafication and online data privacy risks. KOALA Hero represents our first step towards facilitating children’s understanding of the invisible data privacy risks. We hope future empirical evaluations will further inform us regarding how our design approaches may affect the thinking process and behaviours of children and families."
+summary: "This written evidence is submitted by Dr Jun Zhao (Senior research fellow) and Ms Ge Wang
+(Final year DPhil student) on behalf of Oxford University’s Child-Centred AI initiative1, led by
+Dr Zhao, which is part of Human Centred Computing Group2 of the Department of Computer
+Science at Oxford University. We have extensive experience in working and researching
+together with children and families to understand how data-driven algorithmic systems
+affect their online experiences and how to design better technologies for them. We have
+published extensively in premier academic conferences and journals on this topic and
+contributed to recent policy and regulatory developments in relation to data protection for
+children and online safeguarding for children, led by the UK CDEI, ICO, DCMS, the Council of
+Europe and other non-profit organisations (such as 5Rights or Terre de Homes)."
 tags: []
 categories: []
 featured: false
