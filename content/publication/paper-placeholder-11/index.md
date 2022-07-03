@@ -4,9 +4,7 @@
 title: "Ethical Considerations on Positioning the Normative Stance when working with Children"
 authors: 
   - Jun Zhao
-  - Blanche Duron
   - admin
-
 
 date: 2022-06-27T01:08:49Z
 # doi: "https://doi.org/10.1145/3501712.3535278"
@@ -25,10 +23,9 @@ publication: "In 21st edition of the ACM Interaction Design and Children (IDC) C
 
 publication_short: "![honorable mention](https://raw.githubusercontent.com/tiffanygewang/tiffany.ge.wang/master/assets/media/newline.png) In IDC'22"
 
-abstract:"Children's online activities are routinely tracked, aggregated, and exploited by online services, to manipulate children's online behaviour or monetise. This contributes to the so-called datafied childhood. Unfortunately, such datafication remains largely invisible behind the services and is practically impossible to avoid. Existing approaches largely focus on direct online harms, and provide limited support to raise children's awareness or understanding of how their data may be processed, transmitted across platforms, and used to affect their best interests. Through co-design workshops, we identified key barriers for children and families to cope with this type of data privacy risk. Our contribution is that instead of regarding children as passive users and needing protection, we draw on critical digital literacy theories and design a KOALA Hero app, which is aimed to enhance children's cognitive, situated and critical thinking of datafication and online data privacy risks. KOALA Hero represents our first step towards facilitating children's understanding of the invisible data privacy risks. We hope future empirical evaluations will further inform us regarding how our design approaches may affect the thinking process and behaviours of children and families."
-
+abstract: "Distributed participatory design (DPD) is becoming increasing popular within the HCI community, partly due to the covid-19 era moving everything online. In this position paper, we described the potential problems arising from the choice of researchers' normative stance in design sessions, and we argue for the need to investigate and unpack how to carefully position the normative stance when working with children in distributed participatory design."
 # Summary. An optional shortened abstract.
-summary:"Children's online activities are routinely tracked, aggregated, and exploited by online services, to manipulate children's online behaviour or monetise. This contributes to the so-called datafied childhood. Unfortunately, such datafication remains largely invisible behind the services and is practically impossible to avoid. Existing approaches largely focus on direct online harms, and provide limited support to raise children's awareness or understanding of how their data may be processed, transmitted across platforms, and used to affect their best interests. Through co-design workshops, we identified key barriers for children and families to cope with this type of data privacy risk. Our contribution is that instead of regarding children as passive users and needing protection, we draw on critical digital literacy theories and design a KOALA Hero app, which is aimed to enhance children's cognitive, situated and critical thinking of datafication and online data privacy risks. KOALA Hero represents our first step towards facilitating children's understanding of the invisible data privacy risks. We hope future empirical evaluations will further inform us regarding how our design approaches may affect the thinking process and behaviours of children and families."
+summary: "Distributed participatory design (DPD) is becoming increasing popular within the HCI community, partly due to the covid-19 era moving everything online. In this position paper, we described the potential problems arising from the choice of researchers' normative stance in design sessions, and we argue for the need to investigate and unpack how to carefully position the normative stance when working with children in distributed participatory design."
 tags: []
 categories: []
 featured: false
