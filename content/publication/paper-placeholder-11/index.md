@@ -8,7 +8,7 @@ authors:
   - admin
 
 date: 2022-06-30T01:08:49Z
-# doi: "https://doi.org/10.1145/3501712.3535278"
+doi: "https://doi.org/10.1145/3501712.3535278"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-03-21T01:08:49Z
