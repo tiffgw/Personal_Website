@@ -4,6 +4,7 @@
 title: "Ethical Considerations on Positioning the Normative Stance when working with Children"
 authors: 
   - Jun Zhao
+  - Blanche Duron
   - admin
 
 date: 2022-06-27T01:08:49Z
