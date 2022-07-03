@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "What They Say andWhat They Do: The Need to Unpack the Datafication Practices in Children’s Recommendations"
+title: "What They Say and What They Do: The Need to Unpack the Datafication Practices in Children’s Recommendations"
 authors: 
   - admin
   - Jun Zhao
 
 date: 2022-06-27T01:08:49Z
-doi: "https://doi.org/10.48550/arXiv.1902.02635"
+# doi: "https://doi.org/10.48550/arXiv.1902.02635"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-03-21T01:08:49Z
