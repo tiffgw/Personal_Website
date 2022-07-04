@@ -24,8 +24,8 @@ publication: "Written Evidence Submitted by Oxford University Child-Centred AI"
 publication_short: "![honorable mention](https://raw.githubusercontent.com/tiffanygewang/tiffany.ge.wang/master/assets/media/newline.png) Written Evidence Submitted by Oxford University Child-Centred AI"
 
 abstract: "This written evidence is submitted by Dr Jun Zhao (Senior research fellow) and Ms Ge Wang
-(Final year DPhil student) on behalf of Oxford University’s Child-Centred AI initiative1, led by
-Dr Zhao, which is part of Human Centred Computing Group2 of the Department of Computer
+(Final year DPhil student) on behalf of Oxford University’s Child-Centred AI initiative, led by
+Dr Zhao, which is part of Human Centred Computing Group of the Department of Computer
 Science at Oxford University. We have extensive experience in working and researching
 together with children and families to understand how data-driven algorithmic systems
 affect their online experiences and how to design better technologies for them. We have
@@ -35,8 +35,8 @@ children and online safeguarding for children, led by the UK CDEI, ICO, DCMS, th
 Europe and other non-profit organisations (such as 5Rights or Terre de Homes)."
 # Summary. An optional shortened abstract.
 summary: "This written evidence is submitted by Dr Jun Zhao (Senior research fellow) and Ms Ge Wang
-(Final year DPhil student) on behalf of Oxford University’s Child-Centred AI initiative1, led by
-Dr Zhao, which is part of Human Centred Computing Group2 of the Department of Computer
+(Final year DPhil student) on behalf of Oxford University’s Child-Centred AI initiative, led by
+Dr Zhao, which is part of Human Centred Computing Group of the Department of Computer
 Science at Oxford University. We have extensive experience in working and researching
 together with children and families to understand how data-driven algorithmic systems
 affect their online experiences and how to design better technologies for them. We have
