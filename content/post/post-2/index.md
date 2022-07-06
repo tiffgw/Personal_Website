@@ -1,10 +1,10 @@
 ---
 title: "Oxford CCAI Present at Oxford MPLS Science Together"
 
-The Oxford CCAI (Child-Centred AI) team were well presented in Oxford University MPLS' Science Together 2022.
+The Oxford CCAI (Child-Centred AI) team were well presented in Oxford University MPLS Science Together 2022.
 
 # Summary for listings and search engines
-The Oxford CCAI (Child-Centred AI) team were well presented in Oxford University MPLS' Science Together 2022.
+The Oxford CCAI (Child-Centred AI) team were well presented in Oxford University MPLS Science Together 2022.
 
 # Link this post with a project
 projects: []
