@@ -2,7 +2,7 @@
 title: "Venice Colloquium 2022"
 
 # Summary for listings and search engines
-Summary: The Colloquium assembles researchers from Oxford and from Goodenough working in AI, philosophy, legal regulation and public policy to consider how best the development of AI might be framed and regulated across different governments and societies. I present a talk on Age-Appropriate AI: Gaps, challenges, and what may future look like - AI systems are becoming increasingly pervasive within children’s devices, apps, and services. However, it is not yet well-understood how risks and ethical considerations of AI relate to children, and what that means for future AI regulations?
+The Colloquium assembles researchers from Oxford and from Goodenough working in AI, philosophy, legal regulation and public policy to consider how best the development of AI might be framed and regulated across different governments and societies. I present a talk on Age-Appropriate AI: Gaps, challenges, and what may future look like - AI systems are becoming increasingly pervasive within children’s devices, apps, and services. However, it is not yet well-understood how risks and ethical considerations of AI relate to children, and what that means for future AI regulations?
 
 
 # Link this post with a project
