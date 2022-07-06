@@ -8,7 +8,7 @@ summary: To celebrate SaferInternetDay 2022 🎉, we prepared a short video to d
 # Link this post with a project
 projects: []
 
-# Date published
+Date published
 date: "2022-03-07T00:00:00Z"
 
 # Date updated
@@ -27,12 +27,8 @@ image:
   placement: 2
   preview_only: false
 
-authors:
-- admin
-- Jun Zhao
-- Anirudh Ekambaranathan
-- Ulrik Lynns
-- Claudine Tinsman
+# authors:
+# - admin
 
 # tags:
 # - Academic
