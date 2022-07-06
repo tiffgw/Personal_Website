@@ -7,10 +7,10 @@ title: "Oxford CCAI Present at Oxford MPLS Science Together"
 projects: []
 
 # Date published
-date: "2022-03-07T00:00:00Z"
+date: "2022-06-07T00:00:00Z"
 
 # Date updated
-lastmod: "2022-03-07T00:00:00Z"
+lastmod: "2022-06-07T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
