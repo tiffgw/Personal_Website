@@ -43,9 +43,9 @@ email: "ge.wang[at]cs.ox.ac.uk"
 superuser: true
 highlight_name: true
 ---
-I’m a Dphil student in the Department of Computer Science at University of Oxford, the {{< staticref "https://hcc.cs.ox.ac.uk/" "newtab" >}}Human Centred Computing group{{< /staticref >}}. My Dphil is supervised by Professor Sir Nigel Shadbolt, Dr. Jun Zhao, and receive kind support from Professor Max Van Kleek and Professor Reuben Binns. 
+I’m a Dphil student in the Department of Computer Science at University of Oxford, the {{< staticref "https://hcc.cs.ox.ac.uk/" "newtab" >}}Human Centred Computing group{{< /staticref >}}. My Dphil is supervised by Professor Sir Nigel Shadbolt, Dr. Jun Zhao, and receives kind support from Professor Max Van Kleek and Professor Reuben Binns. 
 
-I'm on the {{< staticref "https://koala.web.ox.ac.uk/home" "newtab" >}}KOALA{{< /staticref >}} team and the {{< staticref "https://twitter.com/oxfordccai" "newtab" >}}OxfordCCAI{{< /staticref >}} team. My research investigates the algorithmic impact on families and children, and what that means for their long-term development. I’m keen to explore the potential for designing more age-appropriate AI for families, as well as building more ethical web and data architecture for them. My research takes a human-centric approach, and focuses on understanding users' needs in order to design technological prototypes that are of real impact on today's society.
+I'm on the {{< staticref "https://twitter.com/oxfordccai" "newtab" >}}OxfordCCAI{{< /staticref >}} team, which stems from our work in the {{< staticref "https://koala.web.ox.ac.uk/home" "newtab" >}}KOALA{{< /staticref >}} project. My research investigates the algorithmic impact on families and children, and what that means for their long-term development. I’m keen to explore the potential for designing more age-appropriate AI for families, as well as building more ethical web and data architecture for them. My research takes a human-centric approach, and focuses on understanding users' needs in order to design technological prototypes that are of real impact on today's society.
 
 {{< icon name="envelope" pack="fa" >}} Email: ge.wang[at]cs.ox.ac.uk 
 
