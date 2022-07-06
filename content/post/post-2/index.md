@@ -2,7 +2,6 @@
 title: "Oxford CCAI Present at Oxford MPLS Science Together"
 
 # Summary for listings and search engines
-Oxford CCAI Present at Oxford MPLS Science Together
 
 # Link this post with a project
 projects: []
