@@ -1,19 +1,18 @@
 ---
 title: "Venice Colloquium 2022"
-The Colloquium assembles researchers from Oxford and from Goodenough working in AI, philosophy, legal regulation and public policy to consider how best the development of AI might be framed and regulated across different governments and societies. I present a talk on Age-Appropriate AI: Gaps, challenges, and what may future look like - AI systems are becoming increasingly pervasive within children’s devices, apps, and services. However, it is not yet well-understood how risks and ethical considerations of AI relate to children, and what that means for future AI regulations?
 
 # Summary for listings and search engines
-The Colloquium assembles researchers from Oxford and from Goodenough working in AI, philosophy, legal regulation and public policy to consider how best the development of AI might be framed and regulated across different governments and societies. I present a talk on Age-Appropriate AI: Gaps, challenges, and what may future look like - AI systems are becoming increasingly pervasive within children’s devices, apps, and services. However, it is not yet well-understood how risks and ethical considerations of AI relate to children, and what that means for future AI regulations?
+Summary: The Colloquium assembles researchers from Oxford and from Goodenough working in AI, philosophy, legal regulation and public policy to consider how best the development of AI might be framed and regulated across different governments and societies. I present a talk on Age-Appropriate AI: Gaps, challenges, and what may future look like - AI systems are becoming increasingly pervasive within children’s devices, apps, and services. However, it is not yet well-understood how risks and ethical considerations of AI relate to children, and what that means for future AI regulations?
 
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2022-03-07T00:00:00Z"
+date: "2022-04-07T00:00:00Z"
 
 # Date updated
-lastmod: "2022-03-07T00:00:00Z"
+lastmod: "2022-04-07T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -28,8 +27,8 @@ image:
   placement: 2
   preview_only: false
 
-authors:
-- admin
+# authors:
+# - admin
 
 # tags:
 # - Academic
