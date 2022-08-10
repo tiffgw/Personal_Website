@@ -22,7 +22,7 @@ publication_types: ["4"]
 # Publication name and optional abbreviated publication name.
 publication: "KOALA Project Report"
 
-publication_short: "KOALA Project Report"
+publication_short: "![honorable mention](https://raw.githubusercontent.com/tiffanygewang/tiffany.ge.wang/master/assets/media/newline.png) KOALA Project Report"
 
 abstract: "It is clear that the world of digital is here to stay. Online technologies are increasingly important for children, providing access to vital education, socialisation, participation, well-being, and entertainment resources. This rapid adoption and increasing reliance on the online world has raised corresponding concerns about the long-term effects of data/ication, in which children's actions are pervasively recorded, tracked, aggregated, analysed, and exploited by online services in multiple ways that include behavioural engineering, and monetisation. "
 # Summary. An optional shortened abstract.
