@@ -21,7 +21,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In Proceedings of the ACM on Human-Computer InteractionVolume 5Issue CSCW2
-publication_short: "![honorable mention Impact Recognition](https://raw.githubusercontent.com/tiffanygewang/tiffany.ge.wang/master/assets/media/honorableimpact.jpg) In CSCW'22"
+publication_short: "![honorable mention Impact Recognition](https://raw.githubusercontent.com/tiffanygewang/tiffany.ge.wang/master/assets/media/honorable_impact.jpg) In CSCW'22"
 
 abstract: "Datafication, which is the process in which children's actions online are pervasively recorded, tracked, aggregated, analysed, and exploited by online services in multiple ways that include behavioural engineering, and monetisation, is becoming increasing common in the online world today. However, we know little about how children feel about such practices and how they perceive datification. Through online interviews with 48 children aged 7-13 from UK schools, we examined how children perceive datafication practices, especially how such practices could make inference on them. We identified three key knowledge gaps in children's perceptions, including their lack of recognition of who were involved in the data processing and how, data being transmitted across platforms, and their data ownership. Through situating our findings under a critical algorithmic literacy framework, our findings provided some immediate indications regarding how we could better support children in the datafied society through more transparency and autonomy-supportive designs, as well as the need for a fundamental shift of the current data governance structure. "
 # Summary. An optional shortened abstract.
