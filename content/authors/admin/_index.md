@@ -16,10 +16,10 @@ education:
       year: 2019 - now
     - course: MSc (Distinction) in Information Science
       institution: University College London
-      year: 2018
+      year: 2017 - 2018
     - course: BA (Hons) in Physics
       institution: University of Oxford
-      year: 2017
+      year: 2014 - 2017
       
 
 # Social/Academic Networking
