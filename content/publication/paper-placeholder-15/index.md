@@ -79,4 +79,3 @@ image:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-# {{< video src="featured.mp4" controls="yes" >}}
