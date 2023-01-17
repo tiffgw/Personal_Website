@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 
-title: ""Treat me as your friend, not a number in your database'': Co-designing with Children to Cope with Datafication Online"
+title: "Treat me as your friend, not a number in your database: Co-designing with Children to Cope with Datafication Online"
 
 
 # Authors
